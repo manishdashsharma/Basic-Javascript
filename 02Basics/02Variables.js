@@ -1,4 +1,4 @@
-const uid = "q1w2e3";
+const uid = "abc123";
 var fullName = "Manish";
 var email = "mdashsharma95@gmail.com";
 var Password = "123456";
