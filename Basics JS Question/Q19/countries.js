@@ -1,0 +1,1 @@
+export const countries = ['India', 'Russia', 'Nepal', 'Australia']

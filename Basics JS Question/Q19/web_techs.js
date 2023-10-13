@@ -1,0 +1,1 @@
+export const WebTech = ["react", 'angular', 'express js','js']
